@@ -1,0 +1,1 @@
+sh -c "$(curl -fsLS https://get.chezmoi.io)" -- init --apply https://github.com/AnantNegi04/dotfiles
